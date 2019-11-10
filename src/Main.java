@@ -6,7 +6,6 @@ public class Main {
         System.out.println("Введите уровень существа :");
         Zote.allDefinition(in.nextInt());
         System.out.println(Zote.allOut());
-        System.out.println("Nothing to commit, seriously dude ?");
 
     }
 
